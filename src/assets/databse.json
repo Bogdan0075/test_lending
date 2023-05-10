@@ -1,0 +1,267 @@
+{
+    "database": [
+        {
+            "id":1,
+            "type": ["House"],
+            "price": "$ 35.000.000",
+            "title": "Roselands House",
+            "width": 340,
+            "height": 382,
+            "img": "img/roselands_house.png",
+            "person": {
+                "perconName": "Dianne Russell",
+                "personDescription": "Manchester, Kentucky",
+                "avatar": "img/dianne_russell.png",
+                "width": 40,
+                "height": 40
+            },
+            "status": {
+                "img": "",
+                "value": "Popular"
+            }
+            
+        },
+        {
+            "id":2,
+            "type": ["House"],
+            "price": "$ 20.000.000",
+            "title": "Woodlandside",
+            "img": "img/woodlandside_house.png",
+            "width": 340,
+            "height": 382,
+            "person": {
+                "perconName": "Robert Fox",
+                "personDescription": "Dr. San Jose, South Dakota",
+                "avatar": "img/robert_fox.png",
+                "width": "40",
+                "height": "40"
+            },
+            "status": {
+                "img": "",
+                "value": "New house"
+            }
+        },
+        {
+            "id":3,
+            "type": ["House"],
+            "price": "$ 44.000.000",
+            "title": "The Old Lighthouse",
+            "img": "img/light_house.png",
+            "width": 340,
+            "height": 382,
+            "person": {
+                "perconName": "Ronald Richards",
+                "personDescription": "Santa Ana, Illinois",
+                "avatar": "img/ronald_richards.png",
+                "width": 40,
+                "height": 40
+            },
+            "status": {
+                "img": "",
+                "value": "Best Deals"
+            }
+        },
+        {
+            "id":4,
+            "type": ["House"],
+            "price": "$ 22.000.000",
+            "title": "Cosmo's House",
+            "img": "img/cosmos_house.png",
+            "width": 340,
+            "height": 382,
+            "person": {
+                "perconName": "Jenny Wilson",
+                "personDescription": "Preston Rd. Inglewood, Maine 98380",
+                "avatar": "img/jenny_wilson.png",
+                "width": 40,
+                "height": 40
+            },
+            "status": {
+                "img": "",
+                "value": "Popular"
+            }
+        },
+        {
+            "id":5,
+            "type": ["Villa"],
+            "price": "$ 22.000.000",
+            "title": "Cosmo's House",
+            "img": "img/cosmos_house.png",
+            "width": 340,
+            "height": 382,
+            "person": {
+                "perconName": "Jenny Wilson",
+                "personDescription": "Preston Rd. Inglewood, Maine 98380",
+                "avatar": "img/jenny_wilson.png",
+                "width": 40,
+                "height": 40
+            },
+            "status": {
+                "img": "",
+                "value": "Popular"
+            }
+        },
+        {
+            "id":6,
+            "type": ["Villa"],
+            "price": "$ 22.000.000",
+            "title": "Cosmo's House",
+            "img": "img/cosmos_house.png",
+            "width": 340,
+            "height": 382,
+            "person": {
+                "perconName": "Jenny Wilson",
+                "personDescription": "Preston Rd. Inglewood, Maine 98380",
+                "avatar": "img/jenny_wilson.png",
+                "width": "40",
+                "height": "40"
+            },
+            "status": {
+                "img": "",
+                "value": "Popular"
+            }
+        },
+        {
+            "id":7,
+            "type": ["Villa"],
+            "price": "$ 22.000.000",
+            "title": "Cosmo's House",
+            "img": "img/cosmos_house.png",
+            "width": 340,
+            "height": 382,
+            "person": {
+                "perconName": "Jenny Wilson",
+                "personDescription": "Preston Rd. Inglewood, Maine 98380",
+                "avatar": "img/jenny_wilson.png",
+                "width": 40,
+                "height": 40
+            },
+            "status": {
+                "img": "",
+                "value": "Popular"
+            }
+        },
+        {
+            "id":8,
+            "type": ["Apartment"],
+            "price": "$ 20.000.000",
+            "title": "Woodlandside",
+            "img": "img/woodlandside_house.png",
+            "width": 340,
+            "height": 382,
+            "person": {
+                "perconName": "Robert Fox",
+                "personDescription": "Dr. San Jose, South Dakota",
+                "avatar": "img/robert_fox.png",
+                "width": 40,
+                "height": 40
+            },
+            "status": {
+                "img": "",
+                "value": "New house"
+            }
+        },
+        {
+            "id":9,
+            "type": ["Apartment"],
+            "price": "$ 20.000.000",
+            "title": "Woodlandside",
+            "img": "img/woodlandside_house.png",
+            "width": 340,
+            "height": 382,
+            "person": {
+                "perconName": "Robert Fox",
+                "personDescription": "Dr. San Jose, South Dakota",
+                "avatar": "img/robert_fox.png",
+                "width": 40,
+                "height": 40
+            },
+            "status": {
+                "img": "",
+                "value": "New house"
+            }
+        },
+        {
+            "id":10,
+            "type": ["Apartment"],
+            "price": "$ 20.000.000",
+            "title": "Woodlandside",
+            "img": "img/woodlandside_house.png",
+            "width": 340,
+            "height": 382,
+            "person": {
+                "perconName": "Robert Fox",
+                "personDescription": "Dr. San Jose, South Dakota",
+                "avatar": "img/robert_fox.png",
+                "width": 40,
+                "height": 40
+            },
+            "status": {
+                "img": "",
+                "value": "New house"
+            }
+        },
+        {
+            "id":11,
+            "type": ["Villa"],
+            "price": "$ 22.000.000",
+            "title": "Cosmo's House",
+            "img": "img/cosmos_house.png",
+            "width": 340,
+            "height": 382,
+            "person": {
+                "perconName": "Jenny Wilson",
+                "personDescription": "Preston Rd. Inglewood, Maine 98380",
+                "avatar": "img/jenny_wilson.png",
+                "width": 40,
+                "height": 40
+            },
+            "status": {
+                "img": "",
+                "value": "Popular"
+            }
+        },
+        {
+            "id":12,
+            "type": ["Apartment"],
+            "price": "$ 35.000.000",
+            "title": "Roselands House",
+            "img": "img/roselands_house.png",
+            "width": 340,
+            "height": 382,
+            "person": {
+                "perconName": "Dianne Russell",
+                "personDescription": "Manchester, Kentucky",
+                "avatar": "img/dianne_russell.png",
+                "width": 40,
+                "height": 40
+            },
+            "status": {
+                "img": "",
+                "value": "Popular"
+            }
+            
+        },
+        {
+            "id":13,
+            "type": ["Apartment"],
+            "price": "$ 35.000.000",
+            "title": "Roselands House",
+            "img": "img/roselands_house.png",
+            "width": 340,
+            "height": 382,
+            "person": {
+                "perconName": "Dianne Russell",
+                "personDescription": "Manchester, Kentucky",
+                "avatar": "img/dianne_russell.png",
+                "width": 40,
+                "height": 40
+            },
+            "status": {
+                "img": "",
+                "value": "Popular"
+            }
+            
+        }
+    ]
+}

@@ -1,28 +1,28 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <HeaderSection />
+    <FeatureHouse />
+    <TourOfHouse />
+    <UserSays />
+    <MoreInformation />
+    <SubscribeCom />
+    <FooterCom />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import HeaderSection from './components/header/HeaderSection.vue';
+import FeatureHouse from './components/feature_house/FeatureHouse.vue';
+import TourOfHouse from './components/tour_of_house/TourOfHouse.vue';
+import UserSays from './components/user_says/UserSays.vue';
+import MoreInformation from './components/more_information/MoreInformation.vue';
+import SubscribeCom from './components/subscribe/Subscribe.vue';
+import FooterCom from './components/footer/FooterCom.vue';
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
-  }
+    HeaderSection, FeatureHouse, TourOfHouse, MoreInformation, SubscribeCom,FooterCom,UserSays
+  } 
 }
 </script>
-
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
-</style>

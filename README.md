@@ -1,4 +1,4 @@
-# test_lending
+# test-landing
 
 ## Project setup
 ```
